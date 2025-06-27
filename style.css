@@ -2,6 +2,9 @@
     margin: 0px;
     padding: 0px;
 }
+body {
+   background-color: rgb(34, 154, 202);
+}
 
 header{
     background-color: rgba(17, 169, 189, 0.616);
