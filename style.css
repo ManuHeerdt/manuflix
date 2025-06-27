@@ -4,9 +4,9 @@
 }
 
 header{
-    background-color: rgba(36, 214, 238, 0.616);
+    background-color: rgba(34, 190, 211, 0.616);
     color: white;
     font-size: 30px;
-    border-bottom: solid 2px rgba(36, 214, 238, 0.616);
+    border-bottom: solid 2px rgba(34, 211, 235, 0.616);
     padding: 20px;
 }
