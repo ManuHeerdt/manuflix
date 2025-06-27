@@ -14,3 +14,7 @@ header{
     border-bottom: solid 2px rgba(54, 154, 179, 0.616);
     padding: 20px;
 }
+.chamada{
+    display: flex;
+    justify-content: center;
+}
