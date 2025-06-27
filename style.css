@@ -1,3 +1,8 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
 header{
     background-color: rgba(36, 214, 238, 0.616);
     color: white;
